@@ -1,0 +1,6 @@
+"Variety","Term","Median","SD","CI_low","CI_high","p_dir","sig"
+"All varieties","(Intercept)",-0.5,0.06,-0.617,-0.384,0,"**"
+"All varieties","PhonCont_fFinal",1.278,0.084,1.109,1.438,1,"**"
+"All varieties","PhonCont_fInitial",1.203,0.082,1.042,1.361,1,"**"
+"All varieties","Variety_fKalajdzi",0.112,0.076,-0.035,0.26,0.933,"."
+"All varieties","Variety_fKaldaras",-0.114,0.076,-0.26,0.032,0.067,"."

@@ -1,0 +1,7 @@
+"Variety","Term","Median","SD","CI_low","CI_high","OR_med","p_dir","sig"
+"Kaldaras","(Intercept)",-3.512,0.68,-5.023,-2.357,0.03,0,"**"
+"Kaldaras","FormerRhotic_fRetroflex",4.461,0.797,3.062,6.18,86.531,1,"**"
+"Kaldaras","PhonCont_fFinal",2.685,0.747,1.336,4.29,14.659,1,"**"
+"Kaldaras","PhonCont_fFinal:FormerRhotic_fRetroflex",-3.199,1.142,-5.459,-0.996,0.041,0.003,"**"
+"Kaldaras","PhonCont_fInitial",1.605,0.863,-0.116,3.317,4.98,0.965,"*"
+"Kaldaras","PhonCont_fInitial:FormerRhotic_fRetroflex",0.277,1.148,-1.873,2.631,1.319,0.599,""
