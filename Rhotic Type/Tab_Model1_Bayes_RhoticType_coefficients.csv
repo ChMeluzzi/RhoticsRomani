@@ -1,0 +1,6 @@
+"Variety","Term","Median","SD","CI_low","CI_high","OR_med","p_dir","sig"
+"All varieties","(Intercept)",-0.594,0.326,-1.272,-0.007,0.552,0.024,"**"
+"All varieties","PhonCont_fFinal",0.305,0.363,-0.365,1.056,1.357,0.812,""
+"All varieties","PhonCont_fIntervocalic",-2.42,0.359,-3.189,-1.759,0.089,0,"**"
+"All varieties","Variety_fKalajdži",-0.482,0.345,-1.189,0.173,0.617,0.074,"."
+"All varieties","Variety_fKalderaš",0.613,0.31,0.022,1.239,1.846,0.979,"**"

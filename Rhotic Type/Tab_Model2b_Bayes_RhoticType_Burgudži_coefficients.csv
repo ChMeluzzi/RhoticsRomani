@@ -1,0 +1,7 @@
+"Variety","Term","Median","SD","CI_low","CI_high","OR_med","p_dir","sig"
+"Burgudži","(Intercept)",-1.337,0.667,-2.918,-0.27,0.263,0.005,"**"
+"Burgudži","FormerRhotic_fRetroflex",1.524,0.779,0.13,3.215,4.591,0.984,"**"
+"Burgudži","PhonCont_fFinal",1.81,0.817,0.33,3.57,6.109,0.991,"**"
+"Burgudži","PhonCont_fFinal:FormerRhotic_fRetroflex",0.82,2.1,-3.039,5.115,2.272,0.651,""
+"Burgudži","PhonCont_fIntervocalic",-2.619,0.864,-4.459,-1.02,0.073,0,"**"
+"Burgudži","PhonCont_fIntervocalic:FormerRhotic_fRetroflex",-1.198,1.288,-3.886,1.228,0.302,0.159,""

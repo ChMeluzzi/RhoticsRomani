@@ -1,0 +1,6 @@
+"Variety","Term","Median","SD","CI_low","CI_high","p_dir","sig"
+"Kalderaš","(Intercept)",-0.767,0.094,-0.949,-0.582,0,"**"
+"Kalderaš","FormerRhotic_fRetroflex",0.344,0.163,0.02,0.659,0.982,"**"
+"Kalderaš","PhonCont_fFinal",0.809,0.148,0.514,1.097,1,"**"
+"Kalderaš","PhonCont_fInitial",0.663,0.143,0.381,0.942,1,"**"
+"Kalderaš","RhoticType_fTRILL+",1.017,0.161,0.706,1.338,1,"**"

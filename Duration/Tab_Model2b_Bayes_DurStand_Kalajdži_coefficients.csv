@@ -1,0 +1,6 @@
+"Variety","Term","Median","SD","CI_low","CI_high","p_dir","sig"
+"Kalajdži","(Intercept)",-0.519,0.085,-0.69,-0.354,0,"**"
+"Kalajdži","FormerRhotic_fRetroflex",0.018,0.14,-0.25,0.293,0.551,""
+"Kalajdži","PhonCont_fFinal",1.09,0.155,0.778,1.39,1,"**"
+"Kalajdži","PhonCont_fInitial",1.023,0.186,0.663,1.396,1,"**"
+"Kalajdži","RhoticType_fTRILL+",1.279,0.164,0.958,1.598,1,"**"

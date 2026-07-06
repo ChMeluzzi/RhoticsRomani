@@ -1,0 +1,7 @@
+"Variety","Term","Median","SD","CI_low","CI_high","OR_med","p_dir","sig"
+"Kalajdži","(Intercept)",-1.118,0.929,-3.24,0.407,0.327,0.082,"."
+"Kalajdži","FormerRhotic_fRetroflex",-1.59,1.17,-3.991,0.627,0.204,0.075,"."
+"Kalajdži","PhonCont_fFinal",1.148,1.016,-0.55,3.498,3.153,0.9,"."
+"Kalajdži","PhonCont_fFinal:FormerRhotic_fRetroflex",0.101,1.663,-3.232,3.322,1.106,0.524,""
+"Kalajdži","PhonCont_fIntervocalic",-2.988,1.082,-5.28,-0.993,0.05,0.002,"**"
+"Kalajdži","PhonCont_fIntervocalic:FormerRhotic_fRetroflex",-0.915,1.958,-5.039,2.68,0.4,0.321,""

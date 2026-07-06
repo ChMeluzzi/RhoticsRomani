@@ -1,0 +1,6 @@
+"Variety","Term","Median","SD","CI_low","CI_high","p_dir","sig"
+"Burgudži","(Intercept)",-0.563,0.058,-0.673,-0.448,0,"**"
+"Burgudži","OriginUltraAggregate_fEU",0.026,0.107,-0.188,0.235,0.599,""
+"Burgudži","PhonCont_fFinal",0.407,0.14,0.135,0.685,0.998,"**"
+"Burgudži","PhonCont_fInitial",0.624,0.109,0.405,0.837,1,"**"
+"Burgudži","RhoticType_fTRILL+",1.587,0.124,1.341,1.823,1,"**"
