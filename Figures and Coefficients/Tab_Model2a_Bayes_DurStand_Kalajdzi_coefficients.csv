@@ -1,7 +1,0 @@
-"Variety","Term","Median","SD","CI_low","CI_high","p_dir","sig"
-"Kalajdzi","(Intercept)",-0.494,0.082,-0.656,-0.331,0,"**"
-"Kalajdzi","OriginUltraAggregate_fEU",0.121,0.161,-0.189,0.441,0.781,""
-"Kalajdzi","PhonCont_fFinal",1.645,0.149,1.355,1.94,1,"**"
-"Kalajdzi","PhonCont_fFinal:OriginUltraAggregate_fEU",-0.356,0.618,-1.559,0.853,0.287,""
-"Kalajdzi","PhonCont_fInitial",1.233,0.191,0.855,1.611,1,"**"
-"Kalajdzi","PhonCont_fInitial:OriginUltraAggregate_fEU",0.632,0.376,-0.104,1.358,0.952,"*"

@@ -1,7 +1,0 @@
-"Variety","Term","Median","SD","CI_low","CI_high","OR_med","p_dir","sig"
-"Burgudzi","(Intercept)",-3.493,0.62,-4.969,-2.522,0.03,0,"**"
-"Burgudzi","OriginUltraAggregate_fEU",-0.2,0.994,-2.308,1.599,0.819,0.417,""
-"Burgudzi","PhonCont_fFinal",3.949,0.732,2.666,5.534,51.867,1,"**"
-"Burgudzi","PhonCont_fFinal:OriginUltraAggregate_fEU",-0.168,1.33,-2.691,2.502,0.846,0.452,""
-"Burgudzi","PhonCont_fInitial",2.962,0.644,1.84,4.348,19.333,1,"**"
-"Burgudzi","PhonCont_fInitial:OriginUltraAggregate_fEU",0.103,1.259,-2.328,2.703,1.109,0.534,""
